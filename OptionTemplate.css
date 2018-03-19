@@ -124,8 +124,8 @@ th, td {
 }
 
 .row100.head th {
-  /* padding-top: 24px; */
-  /* padding-bottom: 20px; */
+   padding-top: 10px;
+   padding-bottom: 10px;
 }
 
 .row100 td {
