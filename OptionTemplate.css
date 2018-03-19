@@ -104,12 +104,15 @@ iframe {
 /*//////////////////////////////////////////////////////////////////
 [ Table ]*/
 table {
+  text-align : right;
   width: 100%;
   background-color: #fff;
+  border: 1px solid black;
 }
 
 th, td {
   font-weight: unset;
+  border: 1px solid black;
   /* padding-right: 10px; */
 }
 
@@ -174,7 +177,7 @@ th, td {
 /*==================================================================
 [ Ver2 ]*/
 .table100.ver2 tbody tr:nth-child(even) {
-  background-color: #eaf8e6;
+  /* background-color: #eaf8e6; */
 }
 
 .table100.ver2 td {
