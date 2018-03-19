@@ -220,3 +220,23 @@ td {
   background-color: #57b846;
   color: #fff;
 }
+
+.ylwbg {
+    background: #fbf5cd;
+}
+
+.grybg {
+	background: #e7e3d5;
+}
+
+.nobg {
+    background: white;
+}
+
+.red{
+	color : red;
+}
+
+.green{
+	color : green;
+}
