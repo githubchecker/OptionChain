@@ -230,13 +230,13 @@ td {
 }
 
 .nobg {
-    background: white;
+    background: white !important;
 }
 
 .red{
-	color : red;
+	color : red !important;
 }
 
 .green{
-	color : green;
+	color : green !important;
 }
