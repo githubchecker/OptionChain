@@ -230,6 +230,8 @@ td {
 
 .grybg {
 	background: #e7e3d5;
+	color: #666667 !important;
+	font-weight: bold;
 }
 
 .nobg {
