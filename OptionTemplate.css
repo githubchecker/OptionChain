@@ -245,3 +245,20 @@ td {
 .green{
 	color : green !important;
 }
+
+hr {
+  height: 4px;
+  margin: 0px !important;
+}
+.hr-high{
+	background-image: -webkit-linear-gradient(left, rgba(66,133,244,.8), rgba(66, 133, 244,.6), rgba(0,0,0,0));
+}
+.hr-open{
+	background-image: -webkit-linear-gradient(left, rgba(15,157,88,.8), rgba(15, 157, 88,.6), rgba(0,0,0,0));
+}
+.hr-close{
+	background-image: -webkit-linear-gradient(left, rgba(244,67,54,.8), rgba(244,67,54,.6), rgba(0,0,0,0));
+}
+.hr-low{
+	background-image: -webkit-linear-gradient(left, #ffd60d, rgba(255, 106, 0, 0.6), rgba(0,0,0,0));
+}
